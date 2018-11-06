@@ -1,3 +1,4 @@
+"""Cli for yoink"""
 import click
 
 @click.command()
